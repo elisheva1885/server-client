@@ -24,7 +24,8 @@ function App() {
       <Route path='/'/>
 
     </Routes>
-    <h5>"uploading to git"<h5/>
+    
+    "uploading to git"
     </>
   );
 }
